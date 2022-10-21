@@ -5,6 +5,7 @@
 - 📫 How to reach me
   * Gmail: areegtarek252@gmail.com
   * LinkedIn: https://www.linkedin.com/in/areeg-tarek/
+  * Freelancer: https://www.freelancer.com/u/areegtarek
   * Kaggle: https://www.kaggle.com/areegtarek
   * Tableau: https://public.tableau.com/app/profile/areeg.tarek
   * Qwicklabs: https://www.cloudskillsboost.google/public_profiles/87e2d77a-939e-47c1-83bf-0c26f311196a
