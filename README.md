@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @areegtarek
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Data science (ML, DL and Big Data)
+- 🌱 I’m currently learning advanced Concepts In AI
 - 💞️ I’m looking to collaborate on more practical projects through a suitable job.
 - 📫 How to reach me
   * Gmail: areegtarek252@gmail.com
