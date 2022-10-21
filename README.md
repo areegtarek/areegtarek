@@ -6,8 +6,8 @@
   * Gmail: areegtarek252@gmail.com
   * LinkedIn: https://www.linkedin.com/in/areeg-tarek/
   * Kaggle: https://www.kaggle.com/areegtarek
-  * Tableau: public.tableau.com/app/profile/areeg.tarek
-  * Qwicklabs: qwiklabs.com/public_profiles/
+  * Tableau: https://public.tableau.com/app/profile/areeg.tarek
+  * Qwicklabs: https://www.cloudskillsboost.google/public_profiles/87e2d77a-939e-47c1-83bf-0c26f311196a
 
 <!---
 areegtarek/areegtarek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
