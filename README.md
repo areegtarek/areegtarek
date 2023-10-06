@@ -1,4 +1,4 @@
-# Areeg Tarek
+# Areeg Tarek Ibrahim
 
 ## About Me
 👋 Hi, I’m Areeg Tarek, a Data Scientist interested in exploring more practical applications of AI concepts.
@@ -16,15 +16,6 @@
 
 ### LinkedIn: [Areeg Tarek](https://www.linkedin.com/in/areeg-tarek/) 
 
-### Freelancer: [Areeg Tarek](https://www.freelancer.com/u/areegtarek)
-
-### Kaggle: [Areeg Tarek](https://www.kaggle.com/areegtarek) 
-
-### Tableau: [Areeg Tarek](https://public.tableau.com/app/profile/areeg.tarek)
-
-### Qwicklabs: [Areeg Tarek](https://www.cloudskillsboost.google/public_profiles/87e2d77a-939e-47c1-83bf-0c26f311196a)
-
-### Credly: [Areeg Tarek](http://credly.com/users/areeg-tarek/)
 
 <!---
 areegtarek/areegtarek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
