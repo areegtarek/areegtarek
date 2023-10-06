@@ -1,14 +1,3 @@
-# Areeg Tarek Ibrahim
-
-## About Me
-👋 Hi, I’m Areeg Tarek, a Data Scientist interested in exploring more practical applications of AI concepts.
-
-## Interests
-👀 I’m interested in Data Science and exploring advanced Concepts In AI.
-
-## Looking To Collaborate
-💞️ I’m looking to collaborate on more practical projects through a suitable job.
-
 ## How To Reach Me
 📫 You can reach me via:
 
